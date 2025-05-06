@@ -524,7 +524,7 @@
           <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
-      <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="421,173" sap2010:WorkflowViewState.IdRef="LogMessage_49" Level="Info" Message="[&quot;Formatting obtained data &amp; adding 'Id' column...&quot;]" />
+      <ui:LogMessage DisplayName="Log Message informing addition of &quot;Id&quot; column" sap:VirtualizedContainerService.HintSize="421,173" sap2010:WorkflowViewState.IdRef="LogMessage_49" Level="Info" Message="[&quot;Formatting obtained data &amp; adding 'Id' column...&quot;]" />
       <ui:ReadRange Range="{x:Null}" WorkbookPathResource="{x:Null}" AddHeaders="True" DataTable="[dt_opportunities]" DisplayName="Read Range of unformatted spreadsheet" sap:VirtualizedContainerService.HintSize="421,57" sap2010:WorkflowViewState.IdRef="ReadRange_10" SheetName="Opportunities" WorkbookPath="[in_opportunitiesFilePath]">
         <sap:WorkflowViewStateService.ViewState>
           <scg:Dictionary x:TypeArguments="x:String, x:Object">
