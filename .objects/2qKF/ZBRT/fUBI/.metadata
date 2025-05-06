@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Exercício DEV - UIPATH",
+  "Type": "Screen",
+  "Id": "fUBIboTyXE6Ybvg8qwjrEQ",
+  "Reference": "O-dCUZBkN0S_gALi-XZPYw/fUBIboTyXE6Ybvg8qwjrEQ",
+  "ParentRef": "O-dCUZBkN0S_gALi-XZPYw/ZBRTtJ-k-EqWq9E6br_k9Q",
+  "Created": "2025-05-05T13:19:03.3091252Z",
+  "Updated": "2025-05-05T13:19:03.3091252Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

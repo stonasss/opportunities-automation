@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="SoYASMPL7UyKdeH-GqAeDg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpasamples.com/opportunities" CVScreenId="d2ca2840-310b-4f71-adec-0d964a4ca045" CvElementArea="659, 537, 80, 35" CvTextArea="677, 547, 42, 16" CvTextArgument="Export" CvType="Button" DesignTimeRectangle="661, 539, 76, 32" DesignTimeScaleFactor="1" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aaname=' Export ' tag='BUTTON' type='' class='export-common footer-button' check:innerText='Export' /&gt;" Guid="f3fd5586-d11d-40b6-926d-c48a5804645e" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Sales Opportunities' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="648, 310, 31, 31" FuzzySelectorArgument="&lt;webctrl class='selectedCheckmark' type='' parentid='app' tag='DIV' aaname='' /&gt;" Guid="56e67af7-7303-42fe-a8df-e21d75ae627e" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="6576f594833dad8c52dcc40c906ff483.png" xmlns="">06_nDcXz5A0elzqMKek6Iqg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

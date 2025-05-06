@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="aFMTtdGAtUGiAq9uzfxlzA" Reference="O-dCUZBkN0S_gALi-XZPYw/fUBIboTyXE6Ybvg8qwjrEQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="1912, 310, 1040, 744" BrowserType="Edge" ContentHash="A67nL9pOWE6kEL51LBU5VA" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAA4SURBVDhPY0i32n4AiP+TifeDDMAmQTQeZAbAADIbG0DWQ10DyMGjXhh0XiAHU8WA/eiCxOPtuwEl0a7qam5sogAAAABJRU5ErkJggg==" Reference="O-dCUZBkN0S_gALi-XZPYw/fUBIboTyXE6Ybvg8qwjrEQ" Selector="&lt;html app='msedge.exe' title='Exercício DEV - UIPATH' /&gt;" Url="[formUrl]" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="e734038f8c4abb8ad9630effb29f565c.jpg" xmlns="">0I16QBTjKoUafMNLkNkBEPg</imageRef>
+    </TargetApp>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="https://docs.google.com/forms/d/e/1FAIpQLSe8bucitMAeb-ELVbYmYodNJsgQs5P5wRXHT68lqFx79a6-Qg/viewform" Name="formUrl" />
+    </scg:List>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

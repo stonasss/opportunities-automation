@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="vld-Vob0mUy9cVKulM-W6Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="docs.google.com/forms/d/e/1FAIpQLSe8bucitMAeb-ELVbYmYodNJsgQs5P5wRXHT68lqFx79a6-Qg/viewform" CVScreenId="52a84c7c-908b-40d9-ba44-c9b55f73b6da" CvElementArea="662, 382, 300, 34" CvType="InputBox" DesignTimeRectangle="666, 390, 295, 24" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl aria-labelledby='i11 i14' tag='INPUT' type='text' class='whsOnd zHQkBf' aaname='' /&gt;" Guid="ebd4472b-5e22-4cb3-8eee-125d0e86e5ce" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Exercício DEV - UIPATH' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="52a84c7c-908b-40d9-ba44-c9b55f73b6da" CvTextArea="664, 339, 58, 18" CvTextArgument="Country" CvType="Text" DesignTimeRectangle="666, 336, 55, 24" FuzzySelectorArgument="&lt;webctrl parentid='i11' tag='SPAN' type='' class='M7eMe' aaname='Country' check:innerText='Country' /&gt;" Guid="8734d872-4d2f-4073-8056-b0b83a62cf66" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="8aad4a5e967831524dd934a517100c53.png" xmlns="">0UZqYUZK6QEW9DJdsInRsCw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

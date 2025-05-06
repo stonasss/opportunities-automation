@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="XAUoTrrhm0e2UDPCzEJsUg" Reference="O-dCUZBkN0S_gALi-XZPYw/1fwQRDD28Eyll35bMYXNag" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="1912, 310, 1040, 744" BrowserType="Edge" ContentHash="tZwMLH8-7UGRzsR38BFPrA" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAAQhJREFUWEftl9ENwjAMRDsCIzAKm8AGsAGMwEaMwgiMQP0qTkKy09YkfCDypJNKnFzckLTu0AnYmW6mh+nZUHjuTbOcTdHglmKOkINJnS6mjSlCfTLgdTJpLKvsYIkI0nGOTxIQ3Bhjmcsh49Kdi5oE8GYs+8ux1libczv9ylOcZ20CWsZaOYqBgKup9pg6ioHG9AR6Ar+XAG8wjtz9dS2y7SKdAEaKYSyy7UIxRymAiWKYi2y7UMxRCvCaxghjrkW2XaQTaE1PoCdQnEfHZ6kkq0ElWZiAilIqnm9xNDFHWJRSKis7KuOWK4HX+zdH9IieaFXvzWlxhXl66e9oJfYXnuEHyT8zDCPMjw3PbnWtNQAAAABJRU5ErkJggg==" Reference="O-dCUZBkN0S_gALi-XZPYw/1fwQRDD28Eyll35bMYXNag" Selector="&lt;html app='msedge.exe' url='https://www.rpasamples.com/opportunities' /&gt;" Url="https://www.rpasamples.com/opportunities" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="8e57a84b6b8b63e5f0157b5b5e75cd16.png" xmlns="">0XVdZNPcKd02bMDaYr7Csxg</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

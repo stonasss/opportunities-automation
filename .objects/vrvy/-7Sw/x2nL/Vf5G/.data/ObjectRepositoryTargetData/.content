@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="GWU6du7Hb0aqwhOdKlKIAw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpasamples.com/opportunities" CVScreenId="5bef28dc-da61-48d2-9285-f17e89bc17e6" CvElementArea="492, 311, 188, 137" CvType="InputBox" DesignTimeRectangle="492, 310, 188, 136" DesignTimeScaleFactor="1" FuzzySelectorArgument="&lt;webctrl class='export-option' parentid='app' tag='DIV' type='' aaname='' check:innerText='Details Only&amp;#xA;Export only the detail rows.' /&gt;" Guid="0287b219-f1a5-4780-af30-b885d78aaa10" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Sales Opportunities' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="5bef28dc-da61-48d2-9285-f17e89bc17e6" CvTextArea="484, 224, 58, 21" CvTextArgument="Export" CvType="Text" DesignTimeRectangle="273, 207, 480, 53" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='popup-header' parentid='app' tag='DIV' type='' aaname='Export' check:innerText='Export' /&gt;" Guid="fb7ed215-5bc3-4a96-8dfa-2c68e7909652" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b676a7b5e13fc938496e0f35e1cc00b4.png" xmlns="">0eY-0OV-sF0urbMqPw5qUcA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Ey5_GBef-Eyp3JcvrBm-Ow" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpasamples.com/opportunities" CVScreenId="cacacdb1-31bd-4d56-aba1-bcbcad98f9e0" CvElementArea="823, 156, 91, 39" CvTextArea="846, 168, 44, 17" CvTextArgument="Export" CvType="Button" DesignTimeRectangle="824, 158, 88, 36" DesignTimeScaleFactor="1" ElementType="Button" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='' class='btn-export' aaname=' Export ' check:innerText='Export' /&gt;" Guid="f65f0194-b40f-41ba-b42a-1fe02c880189" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Sales Opportunities' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="cacacdb1-31bd-4d56-aba1-bcbcad98f9e0" CvTextArea="50, 167, 172, 20" CvTextArgument="Report: Opportunities" CvType="Text" DesignTimeRectangle="23, 163, 198, 26" FuzzySelectorArgument="&lt;webctrl class='flex-container' parentid='app' tag='DIV' type='' aaname='' check:innerText='Report: Opportunities' /&gt;" Guid="e4fce55f-d5e8-4a4a-bb05-3c1d6034f1de" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="7c570fb89ab294428f5632c17a86a6fd.png" xmlns="">0NYN_r6jthEOEl0q9o4pipQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

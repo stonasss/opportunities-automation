@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="JCesLCY_gUi1XMs8AiiZfA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="docs.google.com/forms/d/e/1FAIpQLSe8bucitMAeb-ELVbYmYodNJsgQs5P5wRXHT68lqFx79a6-Qg/viewform" CVScreenId="61341e6f-d0ca-48aa-b0d1-291f42fd80b2" CvElementArea="663, 761, 300, 34" CvType="InputBox" DesignTimeRectangle="666, 769, 295, 24" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl aria-labelledby='i57 i60' tag='INPUT' type='text' class='whsOnd zHQkBf' aaname='' /&gt;" Guid="6e144047-fff8-49c4-bef1-9ca19bf4b877" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Exercício DEV - UIPATH' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="61341e6f-d0ca-48aa-b0d1-291f42fd80b2" CvTextArea="665, 692, 67, 15" CvTextArgument="List Price" CvType="Text" DesignTimeRectangle="666, 689, 66, 24" FuzzySelectorArgument="&lt;webctrl parentid='i57' tag='SPAN' type='' class='M7eMe' aaname='List Price' check:innerText='List Price' /&gt;" Guid="05d78c70-f5df-488f-93c6-568c4a337b15" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="1431acda81cc95b704815bf4a2b851e7.png" xmlns="">0Hfoz67ZhJ0SAEMxqqsJhng</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,33 @@
+{
+  "DisplayName": "Main",
+  "Tooltip": null,
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "in_opportunitiesFolderPath",
+      "DisplayName": "in_opportunitiesFolderPath",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "C:\\OpportunityInfo\\Output Folder",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "in_opportunitiesFilePath",
+      "DisplayName": "in_opportunitiesFilePath",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "C:\\OpportunityInfo\\Output Folder\\opportunities.xlsx",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Existe valor acima de 1…(1)",
+  "Type": "Element",
+  "Id": "6c02vnGDYU-Ihq6bzoLpYQ",
+  "Reference": "O-dCUZBkN0S_gALi-XZPYw/6c02vnGDYU-Ihq6bzoLpYQ",
+  "ParentRef": "O-dCUZBkN0S_gALi-XZPYw/fUBIboTyXE6Ybvg8qwjrEQ",
+  "Created": "2025-05-05T13:32:59.8285854Z",
+  "Updated": "2025-05-05T13:32:59.8285854Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

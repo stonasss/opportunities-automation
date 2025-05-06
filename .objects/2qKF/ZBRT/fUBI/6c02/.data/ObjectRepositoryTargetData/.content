@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="X462kr9inkaCh2Vf5I6OTQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="docs.google.com/forms/d/e/1FAIpQLSe8bucitMAeb-ELVbYmYodNJsgQs5P5wRXHT68lqFx79a6-Qg/viewform" CVScreenId="e51005bc-f287-4a70-b893-1958d577bcb9" CvElementArea="664, 800, 24, 25" CvType="RadioButton" DesignTimeRectangle="666, 802, 20, 20" DesignTimeScaleFactor="1" FuzzySelectorArgument="&lt;webctrl type='' parentid='i44' tag='DIV' class='AB7Lab Id5V1' aaname='' /&gt;" Guid="95843a73-ad08-4ea4-9f27-403d01c02cff" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Exercício DEV - UIPATH' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="e51005bc-f287-4a70-b893-1958d577bcb9" CvTextArea="665, 715, 370, 15" CvTextArgument="Existe valor acima de 10.000 no campo Total Price ?" CvType="Text" DesignTimeRectangle="666, 712, 368, 24" FuzzySelectorArgument="&lt;webctrl parentid='i36' tag='SPAN' type='' class='M7eMe' aaname='Existe valor acima de 10.000 no campo  ?' check:innerText='Existe valor acima de 10.000 no campo Total Price ?' /&gt;" Guid="1390e7ec-9fcb-4c0d-8579-d1ead2ee12b6" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d501f17a07c5d2e59e5e2ef1c5c129ad.png" xmlns="">0e8h4XMcSJEuHTgHbepizgw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

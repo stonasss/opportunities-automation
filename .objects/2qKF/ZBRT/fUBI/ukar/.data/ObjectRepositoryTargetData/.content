@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="OufRbbd4Y0O0CUV6394bng" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="docs.google.com/forms/u/0/d/e/1FAIpQLSe8bucitMAeb-ELVbYmYodNJsgQs5P5wRXHT68lqFx79a6-Qg/formResponse" CVScreenId="2be7aab5-d5ae-4a0f-a82d-c94b06442302" CvTextArea="672, 407, 158, 17" CvTextArgument="Submit another response" CvType="Text" DesignTimeRectangle="673, 407, 156, 17" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='A' type='' class='' aaname='Submit another response' check:innerText='Submit another response' /&gt;" Guid="a521153e-2753-4dc8-b8a1-1bdbe2521283" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Exercício DEV - UIPATH' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="2be7aab5-d5ae-4a0f-a82d-c94b06442302" CvTextArea="671, 362, 220, 14" CvTextArgument="Your response has been recorded." CvType="Text" DesignTimeRectangle="673, 361, 590, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Your response has been recorded.' tag='DIV' type='' class='vHW8K' check:innerText='Your response has been recorded.' /&gt;" Guid="fd52736d-53b2-4fdd-bddb-360da1750b54" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="5bfd920d7120c695847e3932a84ab840.png" xmlns="">0UCApVbPNJUi4lN8fTcZMgQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

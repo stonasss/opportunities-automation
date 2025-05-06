@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Goi9Be0qyEqJ3ogrSAcsMg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpasamples.com/opportunities" CVScreenId="cacacdb1-31bd-4d56-aba1-bcbcad98f9e0" CvElementArea="823, 156, 91, 39" CvTextArea="846, 168, 44, 17" CvTextArgument="Export" CvType="Button" DesignTimeRectangle="824, 158, 88, 36" DesignTimeScaleFactor="1" ElementType="Button" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='' class='btn-export' aaname=' Export ' check:innerText='Export' /&gt;" Guid="437c6588-40e8-45be-b9bf-b5cb76a1a179" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Sales Opportunities' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="b25c04b2d391c114856e52d9ffc2b930.png" xmlns="">0axKei6YNVUubNaaUpgnyUQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

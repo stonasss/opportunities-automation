@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge Exercício DEV - UIPATH",
+  "Type": "App",
+  "Id": "2qKF_YGsgUCsXD8Z2nl4Og",
+  "Reference": "O-dCUZBkN0S_gALi-XZPYw/2qKF_YGsgUCsXD8Z2nl4Og",
+  "Created": "2025-05-05T13:19:03.2385178Z",
+  "Updated": "2025-05-05T13:19:03.2385178Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "DownloadAndQueue.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_opportunities&Sequence_3",
+        "dt_opportunitiesForQueue&Sequence_3",
+        "opportunitiesReportUrl&Sequence_3",
+        "salesOpportunities&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_opportunitiesFilePath",
+        "in_opportunitiesFolderPath"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "RegisterFormAndEmail.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "formUrl&Sequence_3",
+        "allQueueItems&Sequence_3",
+        "dt_unfiltered&Sequence_36",
+        "strUnfilteredDt&Sequence_36",
+        "dt_filtered&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

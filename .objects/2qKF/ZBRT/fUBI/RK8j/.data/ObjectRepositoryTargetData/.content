@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="z0RuwOZ8kUiRPTVIYJRTqA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="docs.google.com/forms/d/e/1FAIpQLSe8bucitMAeb-ELVbYmYodNJsgQs5P5wRXHT68lqFx79a6-Qg/viewform" CVScreenId="406e2c43-640d-4098-848a-1e0b1366466e" CvElementArea="639, 972, 98, 39" CvTextArea="662, 984, 51, 15" CvTextArgument="Submit" CvType="Button" DesignTimeRectangle="641, 974, 95, 36" DesignTimeScaleFactor="1" FuzzySelectorArgument="&lt;webctrl type='' tag='SPAN' class='l4V7wb Fxmcue' aaname='' check:innerText='Submit' /&gt;" Guid="9b5f8882-9e9b-4127-b027-0623e3714bfb" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Exercício DEV - UIPATH' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="4cb2f915d1c5d35b4f0835eb694083e3.png" xmlns="">0fAK1m_KxX0mHPX2HFkNh2g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
