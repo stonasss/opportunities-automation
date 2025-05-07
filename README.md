@@ -11,3 +11,6 @@ Below are two images, each one representing a simplified flowchart explaining ea
 
 ## 2nd automation (<i>RegisterFormAndEmail.xaml</i>)
 <img align="center" src="https://i.imgur.com/3MVj0sx.png" />
+
+## Video demonstration
+<a href="https://vimeo.com/1082039569/a7ba8da2a8?share=copy">UiPath Live Demo of Sales Opportunities Automation - Luis Bernardo</a>
